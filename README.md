@@ -1,2 +1,2 @@
 # hello-world
-Simple mining bot
+Additional text
